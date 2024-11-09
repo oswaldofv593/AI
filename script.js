@@ -10,7 +10,7 @@ sendButton.addEventListener('click', async () => {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'Authorization': 'sk-svcacct-uPRIhq6uswfObbCNmVCbEeXIqMNxjcpsVUdragdmrDCdUI6vtS-IqQKfxTz0BBT3BlbkFJqSOeAJwrYaxtyiVWU2FX-kEyb_AOfB3uozlNxdj6wI5TzqmaLGlMm_jIwnKVIAsk-svcacct-uPRIhq6uswfObbCNmVCbEeXIqMNxjcpsVUdragdmrDCdUI6vtS-IqQKfxTz0BBT3BlbkFJqSOeAJwrYaxtyiVWU2FX-kEyb_AOfB3uozlNxdj6wI5TzqmaLGlMm_jIwnKVIA' // Reemplaza con tu API Key
+                'Authorization': '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' // Reemplaza con tu API Key
             },
             body: JSON.stringify({
                 model: 'gpt-3.5-turbo',
