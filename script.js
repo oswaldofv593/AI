@@ -15,7 +15,7 @@ sendButton.addEventListener('click', async () => {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Authorization': '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' // Reemplaza con tu API Key
+            'Authorization': '21416cd17cmsh599e0ebb940af63p105cafjsncb88cafeedb0' // Reemplaza con tu API Key
         },
         body: JSON.stringify({
             model: 'gpt-3.5-turbo',
